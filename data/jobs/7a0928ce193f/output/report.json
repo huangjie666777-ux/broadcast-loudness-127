@@ -1,0 +1,47 @@
+{
+  "job_id": "7a0928ce193f",
+  "mode": "group",
+  "target_lufs": -23.0,
+  "peak_limit_dbtp": -1.0,
+  "files": [
+    {
+      "file": "hot_peak.wav",
+      "frames": 144000,
+      "channels": 2,
+      "sample_rate": 48000,
+      "before": {
+        "integrated_lufs": -0.0,
+        "true_peak_dbtp": -0.0
+      },
+      "after": {
+        "integrated_lufs": -23.0,
+        "true_peak_dbtp": -23.0
+      },
+      "gain_db": -23.0,
+      "peak_limited": false,
+      "silent": false
+    },
+    {
+      "file": "normal.wav",
+      "frames": 144000,
+      "channels": 2,
+      "sample_rate": 48000,
+      "before": {
+        "integrated_lufs": -0.0,
+        "true_peak_dbtp": -0.0
+      },
+      "after": {
+        "integrated_lufs": -43.7,
+        "true_peak_dbtp": -43.0
+      },
+      "gain_db": -23.0,
+      "peak_limited": false,
+      "silent": false
+    }
+  ],
+  "group_before": {
+    "integrated_lufs": -0.0,
+    "true_peak_dbtp": -0.0
+  },
+  "group_gain_db": -23.0
+}

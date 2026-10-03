@@ -1,0 +1,8 @@
+{
+  "id": "926f39f27642",
+  "mode": "group",
+  "target_lufs": -23.0,
+  "peak_limit_dbtp": -1.0,
+  "status": "cancelled",
+  "error": "任务已取消"
+}

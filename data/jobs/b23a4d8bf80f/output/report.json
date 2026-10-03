@@ -1,0 +1,25 @@
+{
+  "job_id": "b23a4d8bf80f",
+  "mode": "per_file",
+  "target_lufs": -23.0,
+  "peak_limit_dbtp": -1.0,
+  "files": [
+    {
+      "file": "transient.wav",
+      "frames": 144000,
+      "channels": 2,
+      "sample_rate": 48000,
+      "before": {
+        "integrated_lufs": -36.7,
+        "true_peak_dbtp": -0.0
+      },
+      "after": {
+        "integrated_lufs": -37.7,
+        "true_peak_dbtp": -1.0
+      },
+      "gain_db": -1.0,
+      "peak_limited": true,
+      "silent": false
+    }
+  ]
+}
