@@ -1,0 +1,12 @@
+{
+  "job_id": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+  "status": "interrupted",
+  "mode": "file",
+  "target_lufs": -23,
+  "max_true_peak_dbtp": -2,
+  "files": [
+    "x.wav"
+  ],
+  "error": "service restarted before completion",
+  "updated_at": 1790980991.4927702
+}

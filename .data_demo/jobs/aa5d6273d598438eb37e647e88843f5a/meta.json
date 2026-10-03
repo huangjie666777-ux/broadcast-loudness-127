@@ -1,0 +1,12 @@
+{
+  "job_id": "aa5d6273d598438eb37e647e88843f5a",
+  "status": "cancelled",
+  "mode": "file",
+  "target_lufs": -23.0,
+  "max_true_peak_dbtp": -2.0,
+  "files": [
+    "long60.wav"
+  ],
+  "created_at": 1790980356.0768948,
+  "updated_at": 1790980356.390169
+}

@@ -1,0 +1,12 @@
+{
+  "job_id": "480ebbe5c765430e8073330c086ddf9a",
+  "status": "completed",
+  "mode": "file",
+  "target_lufs": -23.0,
+  "max_true_peak_dbtp": -2.0,
+  "files": [
+    "silence.wav"
+  ],
+  "created_at": 1790980342.3660386,
+  "updated_at": 1790980342.4602802
+}

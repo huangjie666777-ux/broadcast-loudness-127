@@ -1,0 +1,28 @@
+{
+  "mode": "file",
+  "target_lufs": -23.0,
+  "max_true_peak_dbtp": -2.0,
+  "files": [
+    {
+      "name": "silence.wav",
+      "channels": 2,
+      "sample_rate": 48000,
+      "frames": 144000,
+      "silent": true,
+      "before": {
+        "integrated_lufs": -70.0,
+        "true_peak_dbtp": null
+      },
+      "after": {
+        "integrated_lufs": -70.0,
+        "true_peak_dbtp": null
+      },
+      "gain": {
+        "gain_db": 0.0,
+        "gain_linear": 1.0,
+        "peak_limited": false,
+        "applied": false
+      }
+    }
+  ]
+}

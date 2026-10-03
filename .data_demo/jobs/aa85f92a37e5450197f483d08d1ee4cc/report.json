@@ -1,0 +1,28 @@
+{
+  "mode": "file",
+  "target_lufs": -9.0,
+  "max_true_peak_dbtp": -6.0,
+  "files": [
+    {
+      "name": "high_peak.wav",
+      "channels": 1,
+      "sample_rate": 48000,
+      "frames": 240000,
+      "silent": false,
+      "before": {
+        "integrated_lufs": -24.8,
+        "true_peak_dbtp": -21.1
+      },
+      "after": {
+        "integrated_lufs": -9.7,
+        "true_peak_dbtp": -6.0
+      },
+      "gain": {
+        "gain_db": 15.1,
+        "gain_linear": 5.688529,
+        "peak_limited": true,
+        "applied": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "mode": "group",
+  "target_lufs": -23.0,
+  "max_true_peak_dbtp": -2.0,
+  "files": [
+    {
+      "name": "quiet_a.wav",
+      "channels": 2,
+      "sample_rate": 48000,
+      "frames": 384000,
+      "silent": false,
+      "before": {
+        "integrated_lufs": -37.4,
+        "true_peak_dbtp": -26.0
+      },
+      "after": {
+        "integrated_lufs": -21.9,
+        "true_peak_dbtp": -10.5
+      },
+      "gain": {
+        "gain_db": 15.5,
+        "gain_linear": 5.956621,
+        "peak_limited": false,
+        "applied": true
+      }
+    },
+    {
+      "name": "quiet_b.wav",
+      "channels": 2,
+      "sample_rate": 48000,
+      "frames": 288000,
+      "silent": false,
+      "before": {
+        "integrated_lufs": -40.6,
+        "true_peak_dbtp": -30.5
+      },
+      "after": {
+        "integrated_lufs": -25.1,
+        "true_peak_dbtp": -15.0
+      },
+      "gain": {
+        "gain_db": 15.5,
+        "gain_linear": 5.956621,
+        "peak_limited": false,
+        "applied": true
+      }
+    }
+  ],
+  "group": {
+    "before": {
+      "integrated_lufs": -38.5,
+      "true_peak_dbtp": -26.0
+    },
+    "after": {
+      "integrated_lufs": -23.0,
+      "true_peak_dbtp": -10.5
+    },
+    "gain": {
+      "gain_db": 15.5,
+      "gain_linear": 5.956621,
+      "peak_limited": false,
+      "applied": true
+    }
+  }
+}

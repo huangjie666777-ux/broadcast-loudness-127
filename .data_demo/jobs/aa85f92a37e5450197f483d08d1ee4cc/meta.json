@@ -1,0 +1,12 @@
+{
+  "job_id": "aa85f92a37e5450197f483d08d1ee4cc",
+  "status": "completed",
+  "mode": "file",
+  "target_lufs": -9.0,
+  "max_true_peak_dbtp": -6.0,
+  "files": [
+    "high_peak.wav"
+  ],
+  "created_at": 1790980341.9875047,
+  "updated_at": 1790980342.040716
+}
